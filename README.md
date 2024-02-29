@@ -13,6 +13,10 @@ Colorful Terminal Prints
 ### Color Terminal in C
 ![IMG](https://raw.githubusercontent.com/bonezegei/Code_Terminal_Colors/main/doc/sample1.png "sample 1")
 
+This is Tested using Windows Operating System
+For this to Work you must clear the terminal first using "cls" command, to do that use the function <strong>system()</strong>, which requires you to include <strong>stdlib.h</strong>
+
+
 ```c
   #include <stdio.h>
   #include <stdlib.h>
